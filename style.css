@@ -10,3 +10,26 @@ body {
     height: 100vh;
 }
 
+section {
+    width: 400px;
+    height: 500px;
+    margin: auto;
+    margin-top: 3em;
+}
+
+header {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+div img {
+    width: 240px;
+}
+
+div button {
+    width: 100px;
+    padding: 3px;
+}
